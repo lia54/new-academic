@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
-title = "Recent Posts"
+title = "Teaching"
 subtitle = ""
 
 [content]
@@ -66,3 +66,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+- Operating Systems, Undergraduate Course Fall 2018 and Spring 2019
+- Transmission Systems I and II, Undergraduate course 2011-2012
+- Analog Electronics I and II, Undergraduate course 2010-2011
