@@ -63,7 +63,7 @@ slides: example
 ---
 
 {{% alert note %}}
-USENIX Workshop in Hot Topics in Storage and File Systems HotStorage'18
+USENIX Workshop on Hot Topics in Storage and File Systems HotStorage'18
 {{% /alert %}}
 
 
