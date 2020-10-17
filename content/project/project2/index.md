@@ -10,15 +10,15 @@ date: "2017-08-27T00:00:00Z"
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
-image:
-  caption: Photo by rawpixel on Unsplash
-  focal_point: Smart
+#image:
+#  caption: Photo by rawpixel on Unsplash
+#  focal_point: Smart
 
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
+#links:
+#- icon: twitter
+#  icon_pack: fab
+#  name: Follow
+#  url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -32,5 +32,5 @@ url_video: ""
 slides: example
 ---
 
-Designed and developed a new distributed and persistent caching layer for cloud data centers.
-Implement new replication and recovery protocols to ensure fault-tolerance and availability
+Designed and developed a new distributed and persistent caching layer for cloud data centers to improve efficiency and performance.
+Implement replication and recovery protocols to ensure fault-tolerance and availability.
