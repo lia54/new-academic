@@ -5,10 +5,6 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear in.
 
-[design.spacing]
-  # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["30px", "0", "10px", "0"]
-
 title = "Biography"
 
 # Choose the user profile to display
