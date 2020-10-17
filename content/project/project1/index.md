@@ -3,7 +3,8 @@ title: Cache Replacement Algorithms
 summary:
 tags:
 - Caching
-date: "2017-08-01T00:00:00Z"
+- Algorithms
+date: "2020-08-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

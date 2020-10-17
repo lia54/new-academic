@@ -1,7 +1,7 @@
 ---
 title: "ANX: Caching with Anxiety"
 authors:
-- admin
+- Steven Lyons, Liana Valdes
 date: "2019-09-01T00:00:00Z"
 doi: ""
 
@@ -63,7 +63,7 @@ slides: example
 ---
 
 {{% alert note %}}
-3-min lighting presentation and poster FIU SCIS Research Day
+Poster FIU SCIS Research Day
 {{% /alert %}}
 
 
