@@ -31,5 +31,5 @@ url_video: ""
 slides: example
 ---
 
-Designed and developed novel caching algorithms to improve on the current state-f-the-art strategies for a wide variety of production workloads.
+Designed and developed novel caching algorithms to improve on the current state-of-the-art strategies for a wide variety of production workloads.
 Incorporated new design insights in caching algorithms to reduce the number of writes in SSD caches.

@@ -33,4 +33,4 @@ slides: example
 ---
 
 Designed and developed a new distributed and persistent caching layer for cloud data centers to improve efficiency and performance.
-Implement replication and recovery protocols to ensure fault-tolerance and availability.
+Implemented replication and recovery protocols to ensure fault-tolerance, consistency and availability.
