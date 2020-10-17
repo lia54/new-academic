@@ -1,7 +1,7 @@
 ---
 title: "Driving Cache Replacement with ML-based LeCaR"
 authors:
-Giuseppe Vietri, -admin, Wendy A. Martinez, Steven Lyons, Eysler Paz, Raju Rangaswami, Jason Liu, Ming Zhao, and Giri Narasimhan
+- Giuseppe Vietri, Liana Valdes, Wendy A. Martinez, Steven Lyons, Eysler Paz, Raju Rangaswami, Jason Liu, Ming Zhao, and Giri Narasimhan
 date: "2018-07-01-01T00:00:00Z"
 doi: ""
 
