@@ -1,8 +1,7 @@
 ---
 title: "To Cache or Not to Cache"
 authors:
-- admin
-- Steven Lyons, and Raju Rangaswami
+- Steven Lyons, Liana Valdes, and Raju Rangaswami
 date: "2020-07-01T00:00:00Z"
 doi: ""
 
