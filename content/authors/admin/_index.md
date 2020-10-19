@@ -75,4 +75,4 @@ user_groups:
 
 I am a graduate student in Computer Science at the Systems Research Laboratory (Sylab) supervised by [Prof. Raju Rangaswami](https://users.cs.fiu.edu/~raju/WWW/). My research interests include distributed systems, storage systems, operating systems, and the intersection between systems and machine learning. My previous research projects involved designing new caching algorithms for storage caches to improve performance. Currently, I am working on designing and improving distributed systems solutions for today's cloud data centers.
 
-Earlier this year, I was a Research Intern at Microsoft Research Cambridge, UK on the Project Silica team. Before joining the Ph.D. program at FIU, I graduated with a degree in Telecommunication and Electronics Engineering from Havana, Cuba.
+Earlier this year, I was a Research Intern at Microsoft Research Cambridge, UK, in the Project Silica team. Before joining the Ph.D. program at FIU, I graduated with a degree in Telecommunication and Electronics Engineering from Havana, Cuba.
