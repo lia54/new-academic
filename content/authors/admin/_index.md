@@ -15,7 +15,7 @@ role: Ph.D. Candidate
 # Organizations/Affiliations
 organizations:
 - name: Florida International University
-  url: "http://sylab-srv.cs.fiu.edu/"
+  url: "https://www.fiu.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed systems, storage systems and operating systems.
@@ -73,6 +73,6 @@ user_groups:
 - Visitors
 ---
 
-I am a graduate student in Computer Science at the Systems Research Laboratory (Sylab) supervised by [Prof. Raju Rangaswami](https://users.cs.fiu.edu/~raju/WWW/). My research interests include distributed systems, storage systems, operating systems, and the intersection between systems and machine learning. My previous research projects involved designing new caching algorithms for storage caches to improve performance. Currently, I am working on designing and improving distributed systems solutions for today's cloud data centers.
+I am a graduate student in Computer Science at the [Systems Research Laboratory](http://sylab-srv.cs.fiu.edu/) (Sylab) supervised by [Prof. Raju Rangaswami](https://users.cs.fiu.edu/~raju/WWW/). My research interests include distributed systems, storage systems, operating systems, and the intersection between systems and machine learning. My previous research projects involved designing new caching algorithms for storage caches to improve performance. Currently, I am working on designing and improving distributed systems solutions for today's cloud data centers.
 
-Earlier this year, I was a Research Intern at Microsoft Research Cambridge, UK, in the Project Silica team. Before joining the Ph.D. program at FIU, I graduated with a degree in Telecommunication and Electronics Engineering from Havana, Cuba.
+Earlier this year, I was a Research Intern at Microsoft Research Cambridge, UK, in the [Project Silica] (https://www.microsoft.com/en-us/research/project/project-silica/) team. Before joining the Ph.D. program at FIU, I graduated with a degree in Telecommunication and Electronics Engineering from Havana, Cuba.
