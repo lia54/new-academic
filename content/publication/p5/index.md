@@ -66,23 +66,3 @@ slides: example
 USENIX Workshop on Hot Topics in Storage and File Systems HotStorage'18
 {{% /alert %}}
 
----
-title: "Learning Cache Replacement with Cacheus"
-authors:
-- Liana V. Rodriguez, Farzana Yusuf, Steven Lyons, Eysler Paz, Raju Rangaswami, Jason Liu, Ming Zhao and Giri Narasimhan
-date: "2020-07-01-01T00:00:00Z"
-
-{{% alert note %}}
-USENIX Conference on File and Storage Technologies FAST'21
-{{% /alert %}}
-
----
-title: "Unifying the Data Center Caching Layer - Feasible? Profitable?"
-authors:
-- Liana V. Rodriguez, Alexis Gonzales, Pratik Poudel, Raju Rangaswami and Jason Liu
-date: "2021-07-01-01T00:00:00Z"
-
-{{% alert note %}}
-USENIX Workshop on Hot Topics in Storage and File Systems HotStorage'21
-{{% /alert %}}
-
