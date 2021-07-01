@@ -18,7 +18,7 @@ organizations:
   url: "https://www.fiu.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed systems, storage systems and operating systems.
+bio: My research interests include storage systems, distributed systems, and operating systems.
 
 # interests:
 # - Artificial Intelligence
