@@ -70,7 +70,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-- GAANN Fellowship from US Deparment of Education 2022 
+- GAANN Fellowship from US Department of Education 2022 
 - Grace Hooper Celebration of Women in Computing Schorlarship GHC'19 
 - USENIX Student award 2019
 - USENIX Student award 2018
