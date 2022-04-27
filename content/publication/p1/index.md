@@ -62,7 +62,4 @@ image:
 slides: example
 ---
 
-{{% alert note %}}
-USENIX Conference on File and Storage Technologies FAST'21
-{{% /alert %}}
 
