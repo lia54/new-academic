@@ -1,7 +1,6 @@
 ---
 title: Cache Replacement Algorithms
-summary: Designed and developed novel caching algorithms to improve on the current state-of-the-art strategies for a wide variety of production workloads.
-Incorporated new design insights in caching algorithms to reduce the number of writes in SSD caches.
+summary: 
 tags:
 - Caching
 - Algorithms
@@ -32,3 +31,5 @@ date: "2020-08-01T00:00:00Z"
 # slides: example
 ---
 
+Designed and developed novel caching algorithms to improve on the current state-of-the-art strategies for a wide variety of production workloads.
+Incorporated new design insights in caching algorithms to reduce the number of writes in SSD caches.
