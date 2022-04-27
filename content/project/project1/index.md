@@ -14,7 +14,7 @@ date: "2020-08-01T00:00:00Z"
 #  caption: Photo by rawpixel on Unsplash
 #  focal_point: Smart
 
-links:
+# links:
 # - icon: twitter
 #  icon_pack: fab
 #  name: Follow
