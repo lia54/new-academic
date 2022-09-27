@@ -71,8 +71,9 @@ subtitle = ""
  css_class = ""
 +++
 - Grace Hooper Celebration of Women in Computing FIU Schorlarship GHC'22
+- CMD-IT/ACM Richard Tapia Celebration of Diversity in Computing 2022
 - GAANN Fellowship from U.S. Department of Education 2022 
-- Grace Hooper Celebration of Women in Computing Conference Schorlarship GHC'19 
+- Grace Hooper Celebration of Women in Computing Schorlarship GHC'19 
 - USENIX Student award 2019
 - USENIX Student award 2018
 - Operating Systems, Undergraduate Course,  Fall 2018 and Spring 2019
