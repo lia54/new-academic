@@ -75,4 +75,4 @@ user_groups:
 
 I am a graduate student in Computer Science at the [Systems Research Laboratory](http://sylab-srv.cs.fiu.edu/) (Sylab) supervised by [Prof. Raju Rangaswami](https://users.cs.fiu.edu/~raju/WWW/). My research interests include storage systems, distributed systems, operating systems, and the intersection between systems and machine learning. My previous research projects involved designing new caching algorithms for storage caches to improve performance. Currently, I am working on designing and improving distributed systems solutions for today's cloud data centers.
 
-Earlier in 2020, I was a research intern at Microsoft Research Cambridge, UK, and I also worked as a research intern at Seagate in 2021. Before joining the Ph.D. program at FIU, I graduated with a degree in Telecommunication and Electronics Engineering from Havana, Cuba.
+I was a research intern at Microsoft Research Cambridge, UK woking in the Project Silica project. In 2021, I worked as a research intern at Seagate Technology. Before joining the Ph.D. program at FIU, I graduated with a degree in Telecommunication and Electronics Engineering from Havana, Cuba.
