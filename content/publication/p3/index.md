@@ -15,7 +15,7 @@ publishDate: "2022-02-23T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: Infusing Pub-Sub Storage with Transactions
+publication: "Infusing Pub-Sub Storage with Transactions"
 publication_short: Pub-Sub Storage
 
 abstract: The need to support new features in existing storage systems is an ongoing concern for storage developers. So is the desire to develop next generation storage systems that can adopt newly developed feature improvements with relative ease. Extending storage systems is challenging because of the inherent complexity of their codebases and the need to ensure that the storage state does not become corrupt or inconsistent when enabling new features. In this work, we examine a new storage architecture, FDMI, that uses the well-established publish-subscribe model for extending the feature set of a host storage system using plugins. A central mechanism in FDMI is transactional coupling. With transactional coupling, the subscribed plugin can either create new transactions that execute asynchronously following the successful completion of the precipitating event or can participate in the pending transaction and control whether the precipitating event itself will or will not be committed. We further create a classification of transactional mechanisms as well as possible desired plugin functionality and explore the matrix of these two classifications to create a new model for faster, safer distributed storage development.
