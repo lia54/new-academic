@@ -1,10 +1,10 @@
 ---
-title: Distributed Caching
+title: Distributed Caches in Data Centers
 summary:
 tags:
 - Distributed Systems
-- Caching
-- Cloud Data Centers
+- Cache
+- Cloud
 date: "2017-08-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -31,6 +31,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-
-Designed and developed a new distributed and persistent caching layer for cloud data centers to improve efficiency and performance.
-Implemented replication and recovery protocols to ensure fault-tolerance, consistency and availability.
+Design and develop Caching-as-a-Service (CaaS), a distributed and generalized caching service that addresses the requirements of different types of cloud storage production workloads. 

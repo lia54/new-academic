@@ -1,9 +1,9 @@
 ---
-title: Caching Algorithms for Storage Caches
+title: Extensible Distributed Storage Systems
 summary: 
 tags:
-- Cache
-- Algorithms
+- Distributed storage
+
 date: "2020-08-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -30,4 +30,5 @@ date: "2020-08-01T00:00:00Z"
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
-Design and develop new cache replacement algorithms to improve the hit rate performance of caches that store data for cloud application workloads.
+
+Design TxFuse based on the FDMI architecture from Seagate’s storage system, a novel architecture that allows development of different storage features as plugins to improve the CORTX distributed storage system. 
