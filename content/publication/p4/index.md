@@ -15,7 +15,7 @@ publishDate: "2023-10-23T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: Project Silica: Towards Sustainable Cloud Archival Storage in Glass
+publication: "Project Silica: Towards Sustainable Cloud Archival Storage in Glass"
 publication_short: Project Silica
 
 abstract: Sustainable and cost-effective long-term storage remains an unsolved problem. The most widely used storage technologies today are magnetic (hard disk drives and tape).  They use media that degrades over time and has a limited lifetime, which leads to inefficient, wasteful, and costly solutions for long-lived data.
