@@ -34,7 +34,7 @@ url_pdf: https://users.cs.fiu.edu/~raju/WWW/publications/hotstorage2022/paper.pd
 # url_dataset: '#'
 # url_poster: '#'
 # url_project: ''
-url_slides: https://www.hotstorage.org/2022/slides/hotstorage22-paper4-presentation_slides.pdf
+# url_slides: https://www.hotstorage.org/2022/slides/hotstorage22-paper4-presentation_slides.pdf
 # url_source: '#'
 # url_video: https://www.youtube.com/watch?v=tRsCs6sAkvM
 

@@ -77,3 +77,5 @@ As a graduate student in Computer Science at the [Systems Research Laboratory](h
 
 Prior to my Ph.D. program at FIU, I had the privilege of gaining valuable industry experience. I was a research intern at Microsoft Research Cambridge, UK, where I contributed to the Project Silica project. In 2021, I further honed my skills as a research intern at Seagate Technology. These experiences have not only enriched my understanding of the field but have also provided me with practical insights that I can apply to my current research. Before embarking on my Ph.D. journey, I completed my bachelor's degree in telecommunications and electronics engineering in Havana, Cuba.
 
+
+
