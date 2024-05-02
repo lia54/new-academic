@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
-title = "Teaching & Awards"
+title = "Recent Posts"
 subtitle = ""
 
 [content]
@@ -15,7 +15,7 @@ subtitle = ""
   page_type = "post"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 5
+  count = 0
   
   # Choose how many pages you would like to offset by
   offset = 0
@@ -30,10 +30,6 @@ subtitle = ""
     publication_type = ""
     author = ""
     exclude_featured = false
-
-[design.spacing]
-  # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["10px", "0", "10px", "0"]
   
 [design]
   # Toggle between the various page layout types.
@@ -41,7 +37,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 2
+  view = 1
   
 [design.background]
   # Apply a background color, gradient, or image.
@@ -70,12 +66,12 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-- Grace Hooper Celebration of Women in Computing FIU Schorlarship GHC'22
-- CMD-IT/ACM Richard Tapia Celebration of Diversity in Computing 2022
-- GAANN Fellowship from U.S. Department of Education 2022 
-- Grace Hooper Celebration of Women in Computing Schorlarship GHC'19 
-- USENIX Student award 2019
-- USENIX Student award 2018
-- Operating Systems, Undergraduate Course,  Fall 2018 and Spring 2019
-- Transmission Systems I and II, Undergraduate course,  2011-2012
-- Analog Electronics I and II, Undergraduate course,  2010-2011
+- Grace Hooper Celebration of Women in Computing FIU Schorlarship, GHC'22 in 2022.
+- CMD-IT/ACM Richard Tapia Celebration of Diversity in Computing in 2022.
+- GAANN Fellowship from US Department of Education in 2022.
+- Grace Hooper Celebration of Women in Computing Schorlarship, GHC'19 in 2019.
+- USENIX Student travel award, FAST'19 in 2019.
+- USENIX Student travel award, FAST'18 in 2018.
+- Teaching undergraduate level OS in Fall 2018 and Spring 2019.
+- Teaching Transmission Systems in 2011-2012.
+- Teaching Analog Electronics in 2010-2011.
