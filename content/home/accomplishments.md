@@ -26,15 +26,15 @@ date_format: Jan 2006
 #   You can begin a multiline `description` using YAML's `|-`.
 item:
 - certificate_url: https://www.comptia.org
-  date_end: ""
+  date_end:
   date_start: Feb 2017
-  description: ""
+  description:
   organization: CompTIA
   organization_url: https://www.comptia.org
   title: CompTIA A+ SUPPORT CORE TECHNOLOGIES FROM SECURITY TO NETWORKING TO VIRTUALIZATION AND MORE
-  url: ""
+  url:
 - certificate_url: https://www.edx.org
-  date_end: ""
+  date_end:
   date_start: March 2018
   description: Formulated informed blockchain models, hypotheses, and use cases.
   organization: edX
@@ -42,12 +42,12 @@ item:
   title: Blockchain Fundamentals
   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
 - certificate_url: https://www.datacamp.com
-  date_end: ""
+  date_end:
   date_start: July 2017
-  description: ""
+  description:
   organization: DataCamp
   organization_url: https://www.datacamp.com
   title: 'Object-Oriented Programming in R: S3 and R6 Course'
-  url: ""
+  url:
 ---
 
