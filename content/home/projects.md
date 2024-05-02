@@ -30,8 +30,20 @@ subtitle = ""
     tag = "Cache"
   
   [[content.filter_button]]
-    name = "Distributed System"
-    tag = "Distributed System"
+    name = "Algorithms"
+    tag = "Algorithms"
+
+  [[content.filter_button]]
+    name = "Distributed Storage"
+    tag = "Distributed storage"
+
+  [[content.filter_button]]
+    name = "Distributed Systems"
+    tag = "Distributed Systems"
+    
+  [[content.filter_button]]
+    name = "Cloud"
+    tag = "Cloud"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -42,7 +54,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view = 5
+  view = 1
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false
