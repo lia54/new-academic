@@ -45,11 +45,11 @@ experience:
   date_end: "2020-03-01"
   date_start: "2020-01-01"
   description: |-
-  Responsibilities include:
-    * Analysing
-    * Designing
-    * Modelling
-    * Developing
+    Responsibilities include:
+      * Analysing
+      * Designing
+      * Modelling
+      * Developing
   location: Cambridge, UK
   title: Research Intern
 - company: Seagate Technology
