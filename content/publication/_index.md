@@ -12,4 +12,6 @@ view: 1
 header:
   caption: ""
   image: ""
+  image_size: small
+  
 ---
