@@ -19,23 +19,19 @@ subtitle = ""
   # To remove toolbar, delete/comment all instances of `[[content.filter_button]]` below.
   
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
-  # filter_default = 0
+  filter_default = 0
   
-  # [[content.filter_button]]
-  #   name = "All"
-  #   tag = "*"
+  [[content.filter_button]]
+    name = "All"
+    tag = "*"
   
-  # [[content.filter_button]]
-  #   name = "Deep Learning"
-  #   tag = "Deep Learning"
+  [[content.filter_button]]
+    name = "Cache"
+    tag = "Cache"
   
-  # [[content.filter_button]]
-  #   name = "Other"
-  #   tag = "Demo"
-
-[design.spacing]
-  # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["10px", "0", "10px", "0"]
+  [[content.filter_button]]
+    name = "Distributed System"
+    tag = "Distributed System"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -46,7 +42,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view = 2
+  view = 3
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false
