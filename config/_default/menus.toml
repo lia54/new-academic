@@ -22,6 +22,11 @@
   name = "Teaching"
   url = "#posts"
   weight = 40
+  
+[[main]]
+  name = "Team"
+  url = "#team"
+  weight = 40
 
 [[main]]
   name = "Contact"
