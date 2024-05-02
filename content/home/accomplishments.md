@@ -27,7 +27,7 @@ date_format: Jan 2006
 item:
 - certificate_url: https://www.comptia.org
   date_end: ""
-  date_start: "2017-02"
+  date_start: "Feb 2017"
   description: ""
   organization: CompTIA
   organization_url: https://www.comptia.org
@@ -35,15 +35,15 @@ item:
   url: ""
 - certificate_url: https://www.edx.org
   date_end: ""
-  date_start: "2018-03-01"
+  date_start: "March 2018"
   description: Formulated informed blockchain models, hypotheses, and use cases.
   organization: edX
   organization_url: https://www.edx.org
   title: Blockchain Fundamentals
   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
 - certificate_url: https://www.datacamp.com
-  date_end: "2017-12-21"
-  date_start: "2017-07-01"
+  date_end: ""
+  date_start: "July 2017"
   description: ""
   organization: DataCamp
   organization_url: https://www.datacamp.com
