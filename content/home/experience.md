@@ -78,7 +78,7 @@ experience:
     * Deploying
   location: Havana, CUB
   title: Network Engineer
-- company: Radiocommunication Company RadioCuba
+- company: Radiocommunication Company (RadioCuba)
   company_url: ""
   date_end: "2012-03-01"
   date_start: "2015-07-01"
