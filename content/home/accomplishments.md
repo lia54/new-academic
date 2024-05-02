@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Accomplishments
+title: Certifications
 subtitle:
 
 # Date format
@@ -31,7 +31,7 @@ item:
   description:
   organization: CompTIA
   organization_url: https://www.comptia.org
-  title: CompTIA A+ SUPPORT CORE TECHNOLOGIES FROM SECURITY TO NETWORKING TO VIRTUALIZATION AND MORE
+  title: CompTIA A+ 220-801 and 220-802 SUPPORT CORE TECHNOLOGIES FROM SECURITY TO NETWORKING TO VIRTUALIZATION AND MORE
   url:
 ---
 
