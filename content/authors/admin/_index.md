@@ -25,7 +25,7 @@ bio: Storage, Distributed Systems, Caching Algorithms, ML for Systems, Systems f
 # - Computational Linguistics
 # - Information Retrieval
 
- education:
+education:
   courses:
   - course: PhD in Computer Science 
     institution: Florida International University
