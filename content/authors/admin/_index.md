@@ -76,7 +76,7 @@ As a newly graduated Ph.D. student in Computer Science (CS) at the [Systems Rese
 
 Prior to my Ph.D. program at Florida International University (FIU), I had the privilege of gaining valuable industry experience. I was a research intern at **Microsoft Research (MSR)** Cambridge, UK, where I contributed to the **Project Silica Project**. In 2021, I further honed my skills as a research intern at **Seagate Technology**. These experiences have not only enriched my understanding of the field, but have also provided me with practical insights that I can apply to my current research. Before embarking on my Ph.D. journey, I completed the **B.S. in Electronics and Telecommunications Engineering** in Havana, Cuba.
 
----
+
 
 
 
