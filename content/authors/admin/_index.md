@@ -18,24 +18,24 @@ organizations:
   url: "https://www.fiu.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include storage systems, distributed systems, and operating systems.
+bio: Storage, Distributed Systems, Caching Algorithms, ML for Systems, Systems for ML, OS, Management, Team Leadership, Innovation, Motivation, Empathy, Technology, Networking, Creativity, and Relationship Building.
 
 # interests:
 # - Artificial Intelligence
 # - Computational Linguistics
 # - Information Retrieval
 
-# education:
-#  courses:
-#  - course: PhD in Artificial Intelligence
-#    institution: Stanford University
-#    year: 2012
-#  - course: MEng in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2009
-#  - course: BSc in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2008
+ education:
+  courses:
+  - course: PhD in Computer Science 
+    institution: Florida International University
+    year: 2023
+  - course: Msc in Computer Science
+    institution: Florida International University
+    year: 2022
+  - course: BSc in Electronics and Telecommunications
+    institution: Technological University of Havana
+    year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -72,10 +72,10 @@ user_groups:
 - Researchers
 - Visitors
 ---
+As a newly graduated Ph.D. student in Computer Science (CS) at the [Systems Research Laboratory](http://sylab-srv.cs.fiu.edu/) (Sylab) under the supervision of [Prof. Raju Rangaswami](https://users.cs.fiu.edu/~raju/WWW/), I have been exploring the fascinating realms of storage systems, distributed systems, operating systems (OS), and the intersection between systems and ML. In my previous research projects, I successfully led a team focused on designing and implementing novel caching algorithms for storage caches, leading to a significant improvement in performance. I have also been actively involved in the development and enhancement of distributed systems solutions for today’s cloud **data centers (DC)**. 
 
-As a graduate student in Computer Science at the [Systems Research Laboratory](http://sylab-srv.cs.fiu.edu/) (Sylab) under the supervision of [Prof. Raju Rangaswami](https://users.cs.fiu.edu/~raju/WWW/), I have been exploring the fascinating realms of storage systems, distributed systems, operating systems, and the intersection between systems and machine learning. In my previous research projects, I successfully designed and implemented novel caching algorithms for storage caches, leading to a significant improvement in performance. I have also been actively involved in the development and enhancement of distributed systems solutions for today's cloud data centers.
+Prior to my Ph.D. program at Florida International University (FIU), I had the privilege of gaining valuable industry experience. I was a research intern at **Microsoft Research (MSR)** Cambridge, UK, where I contributed to the **Project Silica Project**. In 2021, I further honed my skills as a research intern at **Seagate Technology**. These experiences have not only enriched my understanding of the field, but have also provided me with practical insights that I can apply to my current research. Before embarking on my Ph.D. journey, I completed the **B.S. in Electronics and Telecommunications Engineering** in Havana, Cuba.
 
-Prior to my Ph.D. program at FIU, I had the privilege of gaining valuable industry experience. I was a research intern at Microsoft Research Cambridge, UK, where I contributed to the Project Silica project. In 2021, I further honed my skills as a research intern at Seagate Technology. These experiences have not only enriched my understanding of the field but have also provided me with practical insights that I can apply to my current research. Before embarking on my Ph.D. journey, I completed my bachelor's degree in telecommunications and electronics engineering in Havana, Cuba.
 
 
 
