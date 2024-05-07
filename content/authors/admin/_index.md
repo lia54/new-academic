@@ -30,7 +30,7 @@ education:
   - course: PhD in Computer Science 
     institution: Florida International University
     year: 2023
-  - course: Msc in Computer Science
+  - course: MSc in Computer Science
     institution: Florida International University
     year: 2022
   - course: BSc in Electronics and Telecommunications
