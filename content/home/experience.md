@@ -50,7 +50,7 @@ experience:
       * Designing
       * Modelling
       * Developing
-  location: Cambridge, UK
+  location: Cambridgeshire, England, UK
   title: Research Intern
 - company: Seagate Technology
   company_url: ""
@@ -81,7 +81,7 @@ experience:
 - company: Radiocommunication Company (RadioCuba)
   company_url: ""
   date_end: "2012-03-01"
-  date_start: "2015-07-01"
+  date_start: "2014-07-01"
   description: |-
     Responsibilities include:
     * Analysing
