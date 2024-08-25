@@ -183,10 +183,8 @@ plugins_js  = []
   # Choose a shape for avatar images. Options: circle, square.
   shape = "square"
 
-  size = "medium"
-
-  render = "image"
-
+  size = 2048px
+  
 # Configuration of publication pages.
 [publications]
   # Date format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
