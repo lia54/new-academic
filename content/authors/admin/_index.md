@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D. Candidate
+role: Ph.D. Graduate
 
 # Organizations/Affiliations
 organizations:
@@ -18,12 +18,12 @@ organizations:
   url: "https://www.fiu.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Storage, Distributed Systems, Caching Algorithms, ML for Systems, Systems for ML, OS, Management, Team Leadership, Innovation, Motivation, Empathy, Technology, Networking, Creativity, and Relationship Building.
+bio: Storage Systems, Distributed Systems, Caching Algorithms, ML for Systems, Systems for ML, OS, Team Leadership, Innovation, Motivation, Empathy, Technology, Networking, Creativity, and Relationship Building.
 
 # interests:
-# - Artificial Intelligence
-# - Computational Linguistics
-# - Information Retrieval
+- Storage Systems
+- Machine Learning
+- Artificial Intelligence
 
 education:
   courses:
@@ -34,7 +34,7 @@ education:
     institution: Florida International University
     year: 2022
   - course: BSc in Electronics and Telecommunications
-    institution: Technological University of Havana
+    institution: Technological University of Havana “José Antonio Echeverría”
     year: 2014
 
 # Social/Academic Networking
@@ -56,12 +56,12 @@ social:
   link: https://github.com/lia54
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-- icon: cv
+- icon: Curriculum Vitae
   icon_pack: ai
   link: file/Liana_CV_complete.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "lvald108@fiu.edu"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -73,9 +73,9 @@ user_groups:
 - Visitors
   
 ---
-As a Ph.D. student in Computer Science (CS) at the [Systems Research Laboratory (SyLab)](http://sylab-srv.cs.fiu.edu/) under the supervision of [Professor Raju Rangaswami](https://users.cs.fiu.edu/~raju/WWW/), I have been exploring the fascinating realms of storage systems, distributed systems, operating systems (OS) and the intersection between systems and ML. In my previous research projects, I successfully led a team focused on designing and implementing novel caching algorithms for storage caches, significantly improving performance. I have also actively developed and enhanced distributed systems solutions for today’s cloud data centers (DC).
+I am a PhD in Computer Science (CS) who was part of *Systems Research Laboratory (SyLab), <http://sylab-srv.cs.fiu.edu/>* under the supervision of *Professor Raju Rangaswami, <https: //users.cs.fiu.edu/~raju/WWW/>*. I have been exploring the fields of Storage Systems, Distributed Systems, Machine Learning (ML), and Artificial Intelligence (AI). In my previous research projects, I successfully worked on designing and implementing new caching algorithms using ML, which significantly improves system performance. I have also designed and developed distributed storage and caching solutions for Cloud Data Center (DC).
+Before graduating from Florida International University's (FIU) PhD program, I was a Research Intern at Microsoft Research (MSR) in Cambridge, UK, where I contributed to the Silica Project. I also worked as a Research Intern at Seagate Technology, where I joined the CORTX Project. Finally, I also completed a degree in Electronic and Telecommunications Engineering.
 
-Before graduating from my Ph.D. program at Florida International University (FIU), I gained valuable industry experience. I was a research intern at Microsoft Research (MSR) Cambridge, UK, where I contributed to the Project Silica. In 2021, I further honed my skills as an intern at Seagate Technology. These experiences have enriched my understanding of the field and provided me with practical insights to apply to my current research. Before starting my Ph.D., I completed the BSc in Electronics and Telecommunications Engineering in Havana, Cuba.
 
 
 
