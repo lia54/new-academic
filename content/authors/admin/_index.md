@@ -20,7 +20,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Storage Systems, Distributed Systems, Caching Algorithms, ML for Systems, Systems for ML, OS, Team Leadership, Innovation, Motivation, Empathy, Technology, Networking, Creativity, and Relationship Building.
 
-# interests:
+interests:
 - Storage Systems
 - Machine Learning
 - Artificial Intelligence
