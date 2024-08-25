@@ -46,14 +46,11 @@ skills:
     items:
       - name: Python
         description: ''
-        icon: code-bracket
       - name: Caching 
         description: ''
         percent: 100
-        icon: chart-bar
       - name: Distributed solutions
         description: ''
-        icon: circle-stack
         
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
