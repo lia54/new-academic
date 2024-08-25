@@ -12,6 +12,8 @@ superuser: true
 # Role/position
 role: PhD Graduate
 
+profile: true
+
 # Organizations/Affiliations
 organizations:
 - name: Florida International University
