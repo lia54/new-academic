@@ -39,18 +39,6 @@ education:
     institution: Technological University of Havana “José Antonio Echeverría”
     year: 2014
     
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Technical Skills
-    items:
-      - name: Python
-        description: ''
-      - name: Caching 
-        description: ''
-        percent: 100
-      - name: Distributed solutions
-        description: ''
         
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
