@@ -29,66 +29,30 @@ experience:
   company_url: ""
   date_end: "2023-04-01"
   date_start: "2017-08-01"
-  description: |-
-    Responsibilities include:
-    * Analysing
-    * Designing
-    * Modelling
-    * Developing
-    * Testing
-    * Deploying
-    * Teaching
   location: Florida, US
   title: Graduate Research Assistant (GRA)
 - company: Microsoft Research
   company_url: ""
   date_end: "2020-03-01"
   date_start: "2020-01-01"
-  description: |-
-    Responsibilities include:
-      * Analysing
-      * Designing
-      * Modelling
-      * Developing
   location: Cambridgeshire, England, UK
   title: Research Intern
 - company: Seagate Technology
   company_url: ""
   date_end: "2021-08-01"
   date_start: "2021-12-01"
-  description: |-
-    Responsibilities include:
-    * Analysing
-    * Designing
-    * Developing
-    * Testing
-    * Deploying
-  location: Remote, US
+  location: California, US
   title: Intern
 - company: Telecommunications Company (ETECSA)
   company_url: ""
   date_end: "2015-09-01"
   date_start: "2017-08-01"
-  description: |-
-    Responsibilities include:
-    * Analysing
-    * Modelling
-    * Designing
-    * Monitoring
-    * Deploying
-  location: Havana, CUB
+  location: Cuba
   title: Network Engineer
 - company: Radiocommunication Company (RadioCuba)
   company_url: ""
   date_end: "2012-03-01"
   date_start: "2014-07-01"
-  description: |-
-    Responsibilities include:
-    * Analysing
-    * Modelling
-    * Designing
-    * Testing
-    * Deploying
-  location: Havana, CUB
+  location: Cuba
   title: Intern
 ---
