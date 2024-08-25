@@ -183,7 +183,9 @@ plugins_js  = []
   # Choose a shape for avatar images. Options: circle, square.
   shape = "square"
 
-  size = "large"
+  size = "medium"
+
+  render = "image"
 
 # Configuration of publication pages.
 [publications]
