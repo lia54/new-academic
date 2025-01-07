@@ -36,11 +36,11 @@
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[main]]
-    name = "Curriculum Vitae Extended"
+    name = "Curriculum Vitae (CV Extended)"
     url = "file/Liana_CV_complete.pdf"
     weight = 70
 
 [[main]]
-    name = "Curriculum Vitae"
+    name = "Curriculum Vitae (CV One Page)"
     url = "file/Liana_Valdes_CV.pdf"
     weight = 70
