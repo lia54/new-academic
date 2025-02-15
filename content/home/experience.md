@@ -27,7 +27,7 @@ date_format: Jan 2006
 experience:
 - company: SyLab, Florida International University
   company_url: ""
-  date_end: "2023-04-01"
+  date_end: "2023-12-01"
   date_start: "2017-08-01"
   location: Miami, Florida, USA
   title: Graduate Research Assistant (GRA)/GAANN Fellowship
@@ -39,20 +39,20 @@ experience:
   title: Research Intern
 - company: Seagate Technology
   company_url: ""
-  date_end: "2021-08-01"
-  date_start: "2021-12-01"
+  date_end: "2021-12-01"
+  date_start: "2021-08-01"
   location: Remote, California, USA
   title: Research Intern
 - company: Telecommunications Company (ETECSA)
   company_url: ""
-  date_end: "2015-09-01"
-  date_start: "2017-08-01"
+  date_end: "2016-06-01"
+  date_start: "2015-09-01"
   location: Cuba
   title: Telematics Specialist B
 - company: Radiocommunication Company (RadioCuba)
   company_url: ""
-  date_end: "2012-03-01"
-  date_start: "2014-07-01"
+  date_end: "2014-07-01"
+  date_start: "2012-03-01"
   location: Cuba
   title: Research Intern/Apprenticeship
 ---
