@@ -47,12 +47,12 @@ experience:
   company_url: ""
   date_end: "2016-06-01"
   date_start: "2015-09-01"
-  location: Cuba
+  location: Havana, Cuba
   title: Telematics Specialist B
 - company: Radiocommunication Company (RadioCuba)
   company_url: ""
   date_end: "2014-07-01"
   date_start: "2012-03-01"
-  location: Cuba
+  location: Havana, Cuba
   title: Research Intern/Apprenticeship
 ---
