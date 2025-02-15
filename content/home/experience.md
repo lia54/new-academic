@@ -29,8 +29,8 @@ experience:
   company_url: ""
   date_end: "2023-04-01"
   date_start: "2017-08-01"
-  location: Florida, US
-  title: Graduate Research Assistant (GRA)
+  location: Miami, Florida, USA
+  title: Graduate Research Assistant (GRA)/GAANN Fellowship
 - company: Microsoft Research
   company_url: ""
   date_end: "2020-03-01"
@@ -41,18 +41,18 @@ experience:
   company_url: ""
   date_end: "2021-08-01"
   date_start: "2021-12-01"
-  location: California, US
-  title: Intern
+  location: Remote, California, USA
+  title: Research Intern
 - company: Telecommunications Company (ETECSA)
   company_url: ""
   date_end: "2015-09-01"
   date_start: "2017-08-01"
   location: Cuba
-  title: Network Engineer
+  title: Telematics Specialist B
 - company: Radiocommunication Company (RadioCuba)
   company_url: ""
   date_end: "2012-03-01"
   date_start: "2014-07-01"
   location: Cuba
-  title: Intern
+  title: Research Intern/Apprenticeship
 ---
