@@ -35,7 +35,7 @@ education:
   - course: MSc in Computer Science
     institution: Florida International University
     year: 2022
-  - course: BSc in Electronics and Telecommunications
+  - course: BSc in Telecommunications and Electronics
     institution: Technological University of Havana “José Antonio Echeverría”
     year: 2014
     
