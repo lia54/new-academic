@@ -1,10 +1,16 @@
-+++
+---
 # A Recent Blog Posts section created with the Pages widget.
 # This section displays recent blog posts from `content/post/`.
 
-widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+widget = "pages"  
+
+# See https://sourcethemes.com/academic/docs/page-builder/
+headless = true  
+
+# This file represents a page section.
+active = true  
+
+# Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
 title = "Recent Posts"
@@ -65,8 +71,8 @@ subtitle = ""
  
  # CSS class.
  css_class = ""
+
  
- +++
 - USENIX SREcon24 Europe/Middle East/Africa Award, 2024.
 - Grace Hooper Celebration of Women in Computing FIU Schorlarship, GHC'22 in 2022.
 - CMD-IT/ACM Richard Tapia Celebration of Diversity, 2022.
@@ -78,3 +84,7 @@ subtitle = ""
 - Teaching undergraduate level OS in Fall 2018 and Spring 2019.
 - Teaching Transmission Systems in 2011-2012.
 - Teaching Analog Electronics in 2010-2011.
+---
+
+
+
