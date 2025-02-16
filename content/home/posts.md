@@ -1,4 +1,4 @@
-+++
+
 # A Recent Blog Posts section created with the Pages widget.
 # This section displays recent blog posts from `content/post/`.
 
@@ -65,9 +65,11 @@ subtitle = ""
  
  # CSS class.
  css_class = ""
-+++
+ 
+- USENIX SREcon24 Europe/Middle East/Africa Award, 2024.
 - Grace Hooper Celebration of Women in Computing FIU Schorlarship, GHC'22 in 2022.
-- CMD-IT/ACM Richard Tapia Celebration of Diversity in Computing in 2022.
+- CMD-IT/ACM Richard Tapia Celebration of Diversity, 2022.
+- CMD-IT/ACM Richard Tapia Celebration of Diversity, 2024.
 - GAANN Fellowship from US Department of Education in 2022.
 - Grace Hooper Celebration of Women in Computing Schorlarship, GHC'19 in 2019.
 - USENIX Student travel award, FAST'19 in 2019.
