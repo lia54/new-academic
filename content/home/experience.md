@@ -43,13 +43,13 @@ experience:
   date_start: "2021-08-01"
   location: Remote, California, USA
   title: Research Intern
-- company: Telecommunications Company (ETECSA)
+- company: Cuban Telecommunications Company S.A. (ETECSA)
   company_url: ""
   date_end: "2016-06-01"
   date_start: "2015-09-01"
   location: Havana, Cuba
   title: Telematics Specialist B
-- company: Radiocommunication Company (RadioCuba)
+- company: Cuban Radio and Television Broadcasting Company (RadioCuba)
   company_url: ""
   date_end: "2014-07-01"
   date_start: "2012-03-01"
