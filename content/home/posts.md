@@ -64,14 +64,6 @@ subtitle = ""
 
   # Text color (true=light or false=dark).
   # text_color_light = true  
-  
-[advanced]
- # Custom CSS. 
- css_style = ""
- 
- # CSS class.
- css_class = ""
-
  
 - USENIX SREcon24 Europe/Middle East/Africa Award, 2024.
 - Grace Hooper Celebration of Women in Computing FIU Schorlarship, GHC'22 in 2022.
@@ -84,6 +76,7 @@ subtitle = ""
 - Teaching undergraduate level OS in Fall 2018 and Spring 2019.
 - Teaching Transmission Systems in 2011-2012.
 - Teaching Analog Electronics in 2010-2011.
+
 ---
 
 
