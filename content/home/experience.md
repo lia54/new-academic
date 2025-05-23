@@ -30,7 +30,7 @@ experience:
   date_end: "2023-12-01"
   date_start: "2017-08-01"
   location: Miami, Florida, USA
-  title: Graduate Research Assistant (GRA)/GAANN Fellowship
+  title: Graduate Research Assistant (GRA)/Teaching Assistant (TA)/GAANN Fellowship
 - company: Microsoft Research
   company_url: ""
   date_end: "2020-03-01"
