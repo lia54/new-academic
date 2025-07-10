@@ -40,10 +40,10 @@ url_pdf: https://users.cs.fiu.edu/~raju/WWW/publications/hotstorage2022/paper.pd
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-# image:
-#  caption: 'Pub-Sub Storage'
-#  focal_point: ""
-#  preview_only: false
+image:
+  caption: 'Pub-Sub Storage'
+  focal_point: ""
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
