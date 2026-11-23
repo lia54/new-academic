@@ -25,7 +25,13 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   You can begin a multiline `description` using YAML's `|-`.
 experience:
-- company: SyLab, Florida International University
+- company: Mercor
+  company_url: ""
+  date_end: "2026-09-01"
+  date_start: "2026-04-01"
+  location: Miami, Florida, USA
+  title: Computer Science Expert
+- company: SyLab, Florida International University (FIU)
   company_url: ""
   date_end: "2023-12-01"
   date_start: "2017-08-01"
