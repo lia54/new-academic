@@ -76,9 +76,7 @@ user_groups:
 - Visitors
   
 ---
-I am a Ph.D. in Computer Science (CS) who was part of *Systems Research Laboratory (SyLab), <http: //sylab-srv.cs.fiu.edu/>,* under the supervision of *Professor Raju Rangaswami, <https: //users.cs.fiu.edu/~raju/WWW/>*. I have been exploring the fields of Storage Systems, Distributed Systems, Machine Learning (ML), and Artificial Intelligence (AI). In my previous research projects, I successfully worked on designing and implementing novel caching algorithms using ML, which significantly improved system performance. I have also designed and developed distributed storage and caching solutions for Cloud Data Centers.
-Before graduating from Florida International University's (FIU) Ph.D. program, I was a Research Intern at Microsoft Research (MSR) in Cambridge, UK, where I contributed to Project Silica. I also worked as a Research Intern at Seagate Technology, where I joined the CORTX Open-source Project. Finally, I also completed my Bachelor's degree in Telecommunications and Electronics Engineering.
-
+I hold a Ph.D. in Computer Science (CS) from Florida International University (FIU), where I was a member of the Systems Research Laboratory (SyLab) under the supervision of Professor Raju Rangaswami (<https://users.cs.fiu.edu/~raju/WWW/>). My research interests include storage systems, distributed systems, machine learning (ML), and artificial intelligence (AI). In previous projects, I designed and implemented novel machine learning-based caching algorithms that significantly enhanced system performance. I also designed distributed storage features and distributed caching solutions for cloud data centers. During my doctoral studies, I interned at Microsoft Research (MSR) in Cambridge, UK, where I contributed to “Project Silica,” and at Seagate Technology, where I worked on the “CORTX” open-source project. Previously, I earned a bachelor’s degree in Telecommunications and Electronics Engineering in 2014.
 
 
 
