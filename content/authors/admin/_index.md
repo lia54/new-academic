@@ -64,7 +64,7 @@ social:
   link: file/Liana_CV_complete.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "lvald108@fiu.edu"
+email: "lianavaldesrdguez@gmail.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
